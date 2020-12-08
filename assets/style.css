@@ -1,3 +1,29 @@
 body {
     background-image: linear-gradient(to right, rgba(86, 253, 217, 0.733), rgba(173, 216, 230, 0.651));
+    justify-content: center;
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+i {
+    color: #272996b0;
+    float: left;
+    padding: 10px;
+    height: 10px;
+    text-align: center;
+}
+
+#mainArea {
+    background-color: #8b8b8bab;
+    position: absolute;
+    top: 25%;
+    width: 60%;
+    text-align: center;
+    margin-left: 25%;
+    color: #ffffff;
+
+}
+
+#profilePic {
+    float: right;
 }
