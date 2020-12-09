@@ -1,5 +1,6 @@
 :root {
     --navy:#272996b0;
+    
 }
 
 body {
@@ -9,13 +10,31 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+#nav {
+    text-align: center;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+}
 i {
     color: var(--navy);
+    margin-right: 15px;
   
+}
+
+i:hover {
+    opacity: 0.5;
 }
 
 #mainArea {
     background-color: var(--navy);
     color: #ffffff;
+    border-radius: 5px;
+}
+
+#profilePic {
+    max-width: 103%;
     border-radius: 5px;
 }
