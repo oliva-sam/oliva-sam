@@ -16,14 +16,22 @@ $("#briefcase").on("click", () => {
             <a href="https://github.com/oliva-sam/RnRSearch" target="_blank">
             <img class="projects" src="assets/weather-dashboard-actual.gif" alt=project-1>
             </a>
-            <p>Lazy Foodie</p>
+            <p>Weather Dashboard</p>
         </div>
         <div class="col-sm-6">
             <a href="https://github.com/oliva-sam/06-Weather-Dashboard" target="_blank">
             <img class="projects" src="assets/lazy-foodie-demo.gif" alt=weather-dashboard-gif >
             </a>
-            <p>Weather Dashboard</p>
+            <p>Lazy Foodie</p>
         </div>
+        </div>
+        <div class ="row">
+            <div class ="col-sm-12">
+            <a href ="https://github.com/oliva-sam/eat-da-burger" target="_blank">
+            <img id="burger" src="assets/eat-burger-demo.gif" alt=eat-burger-gif>
+            </a>
+            <p>Eat the Burger</p>
+            </div>
         </div>
         `
     )
@@ -32,10 +40,10 @@ $("#briefcase").on("click", () => {
 $("#homeBtn").on("click", () => {
     console.log("hi")
     $(".fa-briefcase").css("color", "var(--navy)")
-    $("#homeBtn").css( "color", "#ffffff")
-   // $("#upArrow1").show()
-   $("#mainArea").html(
-    `
+    $("#homeBtn").css("color", "#ffffff")
+    // $("#upArrow1").show()
+    $("#mainArea").html(
+        `
     <div class="col-sm-7">
       <br>
         <br>
@@ -52,6 +60,6 @@ $("#homeBtn").on("click", () => {
             allowFullScreen id="profilePic"></iframe>
     </div>
     `
-   )
-    
+    )
+
 })
