@@ -19,8 +19,9 @@ button {
     background-color: transparent;
 }
 
-#homeBtn {
+#homeBtn, #email, a {
     color: #ffffff;
+    text-decoration: none;
 }
 
 i {
@@ -50,10 +51,6 @@ i:hover {
     border-radius: 5px;
 }
 
-#email {
-    color: #ffffff;
-
-}
 
 .projects {
     width: 100%;

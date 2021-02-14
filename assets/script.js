@@ -13,24 +13,28 @@ $("#briefcase").on("click", () => {
         </div>
         <div class="row">
         <div class="col-sm-6">
-            <a href="https://github.com/oliva-sam/RnRSearch" target="_blank">
-            <img class="projects" src="assets/weather-dashboard-actual.gif" alt=project-1>
+            <a href="https://oliva-sam.github.io/RnRSearch/" target="_blank">
+            <img class="projects" src="assets/lazy-foodie-demo.gif" alt=project-1>
             </a>
-            <p>Weather Dashboard</p>
+           <p> Lazy Foodie API</p>
+           <a href="https://github.com/oliva-sam/RnRSearch" target="_blank"><p> GitHub Repository </p> </a>
         </div>
         <div class="col-sm-6">
-            <a href="https://github.com/oliva-sam/06-Weather-Dashboard" target="_blank">
-            <img class="projects" src="assets/lazy-foodie-demo.gif" alt=weather-dashboard-gif >
+            <a href="https://oliva-sam.github.io/06-Weather-Dashboard/" target="_blank">
+            <img class="projects" src="assets/weather-dashboard-actual.gif" alt=weather-dashboard-gif >
             </a>
-            <p>Lazy Foodie</p>
+            <p>Weather Dashboard</p> 
+            <a href="https://github.com/oliva-sam/06-Weather-Dashboard" target="_blank"><p> GitHub Repository </p> </a>
         </div>
+        <br>
         </div>
         <div class ="row">
             <div class ="col-sm-12">
-            <a href ="https://github.com/oliva-sam/eat-da-burger" target="_blank">
+            <a href ="https://ancient-plains-35245.herokuapp.com/" target="_blank">
             <img id="burger" src="assets/eat-burger-demo.gif" alt=eat-burger-gif>
             </a>
             <p>Eat the Burger</p>
+            <a href="https://github.com/oliva-sam/eat-da-burger" target="_blank"><p> GitHub Repository </p> </a>
             </div>
         </div>
         `
