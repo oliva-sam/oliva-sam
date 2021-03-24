@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/oliva-sam/static/css/main.aca39a47.chunk.css",
+    "main.js": "/oliva-sam/static/js/main.c3f2b50c.chunk.js",
+    "main.js.map": "/oliva-sam/static/js/main.c3f2b50c.chunk.js.map",
+    "runtime-main.js": "/oliva-sam/static/js/runtime-main.46bf4081.js",
+    "runtime-main.js.map": "/oliva-sam/static/js/runtime-main.46bf4081.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/oliva-sam/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.75367bd7.chunk.js": "/oliva-sam/static/js/2.75367bd7.chunk.js",
+    "static/js/2.75367bd7.chunk.js.map": "/oliva-sam/static/js/2.75367bd7.chunk.js.map",
+    "index.html": "/oliva-sam/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/oliva-sam/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.aca39a47.chunk.css.map": "/oliva-sam/static/css/main.aca39a47.chunk.css.map",
+    "static/js/2.75367bd7.chunk.js.LICENSE.txt": "/oliva-sam/static/js/2.75367bd7.chunk.js.LICENSE.txt",
+    "static/media/eat-burger-demo.a40a4a62.gif": "/oliva-sam/static/media/eat-burger-demo.a40a4a62.gif",
+    "static/media/lazy-foodie-demo.948fa7c6.gif": "/oliva-sam/static/media/lazy-foodie-demo.948fa7c6.gif",
+    "static/media/weather-dashboard-actual.fb539d2a.gif": "/oliva-sam/static/media/weather-dashboard-actual.fb539d2a.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46bf4081.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.75367bd7.chunk.js",
+    "static/css/main.aca39a47.chunk.css",
+    "static/js/main.c3f2b50c.chunk.js"
+  ]
+}
