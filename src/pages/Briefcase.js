@@ -1,7 +1,7 @@
 import React from "react";
-import lazyfoodieDemo from "../../assets/lazy-foodie-demo.gif";
-import weatherdashDemo from "../../assets/weather-dashboard-actual.gif";
-import eatburgerDemo from "../../assets/eat-burger-demo.gif";
+import lazyfoodieDemo from "../assets/lazy-foodie-demo.gif";
+import weatherdashDemo from "../assets/weather-dashboard-actual.gif";
+import eatburgerDemo from "../assets/eat-burger-demo.gif";
 
 function Briefcase () {
     return (
